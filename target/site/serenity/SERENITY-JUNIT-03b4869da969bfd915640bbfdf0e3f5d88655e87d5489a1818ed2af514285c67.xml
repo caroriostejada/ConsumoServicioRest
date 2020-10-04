@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Consumo de servicios rest de la pagina reqres para realizar pruebas." skipped="0" tests="2" time="5.9" timestamp="2020-10-03 05:18:44"><testcase name="Consumir servicio rest Json vacio (SINGLE RESOURCE)"/><testcase name="Consumir servicio rest con parametros (REGISTER - SUCCESSFUL)"/></testsuite>
